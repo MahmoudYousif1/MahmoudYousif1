@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Yousif</h1>
+<h1 align="center">Hi 👋, I'm Mahmoud </h1>
 <h3 align="left">2nd year Computer Science Student @DCU | B.Sc of Science</h3>
 
 - 🌱 I’m currently learning **Java, Operating Systems, C, Python etc**
