@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud </h1>
 <h3 align="left">2nd year Computer Science Student @DCU | B.Sc of Science</h3>
 
-- 🌱 I’m currently learning **Java, Operating Systems, C, Python etc**
+- 🌱 I’m currently learning **Java, Operating Systems, C, Python, Fullstack development etc**
 
 - 👨‍💻 Checkout my website [https://mahmoudyousif1.github.io](https://mahmoudyousif1.github.io)
 
