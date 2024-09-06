@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mahmoud Yousif and I'm a 2nd year student @DCU</p>
+<p align="left">My name is Mahmoud Yousif and I'm a 3rd year student @DCU</p>
 
 ###
 
